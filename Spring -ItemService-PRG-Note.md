@@ -49,7 +49,7 @@ test {
 
 
 
-![service flow](/media/mwkang/Klevv/Spring 일지/MVC1/01.19/service flow.png)
+![service flow](https://user-images.githubusercontent.com/79822924/151759161-6ab332f2-99cb-4fce-bab1-915b6008adb5.png)
 
 - #### 백엔드 개발자는 HTML 화면이 나오기 전까지 시스템을 설계하고 핵심 비즈니스 모델을 개발해놔야 한다. 이후 HTML이 나오면 HTML을 뷰 템플릿으로 변환하여 동적 화면을 생성하고 웹 화면의 흐름을 제어한다.
 
@@ -442,7 +442,7 @@ public String addItemV4(Item item){
 
 
 
-![PRG](/media/mwkang/Klevv/Spring 일지/MVC1/01.19/PRG.png)
+![PRG](https://user-images.githubusercontent.com/79822924/151759203-2b66d879-1d81-4cab-9d1b-6d3ade7a8af9.png)
 
 ```java
 // "/add"를 redirect로 매핑하여 url을 변경하고 GET 메소드로 바꾼다
