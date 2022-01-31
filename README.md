@@ -82,7 +82,7 @@ public String addItemV6(Item item, RedirectAttributes redirectAttributes){
 
 ## Demonstration Video
 
-![ezgif.com-gif-maker](/home/mwkang/Downloads/ezgif.com-gif-maker.gif)
+![Spring-ItemService-PRG](https://user-images.githubusercontent.com/79822924/151759045-13bf025b-92af-47f0-a836-b5a78e341970.gif)
 
 
 
@@ -91,3 +91,5 @@ public String addItemV6(Item item, RedirectAttributes redirectAttributes){
 
 
 ## More Explanation
+
+[Spring-ItemService-PRG-Note.md](https://github.com/mwkangit/Spring-ItemService-PRG/blob/master/Spring%20-ItemService-PRG-Note.md)
