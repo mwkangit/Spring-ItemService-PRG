@@ -559,3 +559,4 @@ public String edit(@PathVariable Long itemId, @ModelAttribute Item item){
 
   - #### 서버를 실행하여 확인하는 방법이 있다(스프링은 정적 리소스를 GET 메소드로만 호출되게 해놓아서 POST로 접근해야하는 리소스는 오류가 발생하여 확인할 수 없다).
 
+Image 출처 : [김영한 스프링 MVC1](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-mvc-1)
